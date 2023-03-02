@@ -1,6 +1,6 @@
-#NOMBRE DE ESTUDIANTES
-Angie Cruz
-Karen Correa  
+# NOMBRE DE ESTUDIANTES    
+Angie Cruz  
+Karen Correa   
 Edison Oquendo    
 Jonatha Delgado  
 Juan Baena  
