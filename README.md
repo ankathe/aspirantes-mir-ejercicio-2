@@ -1,0 +1,19 @@
+#NOMBRE DE ESTUDIANTES
+Angie Cruz
+Karen Correa  
+Edison Oquendo    
+Jonatha Delgado  
+Juan Baena  
+Paulo Talledo  
+Jonathan Casas  
+Kevin Padilla  
+Samuel Celis  
+Fidel Hernandez  
+Juan Riaza  
+Jose Moreno  
+Cindy Figueroa  
+Jorge Rush  
+Manuel Fabra    
+Juan Gomez  
+Anderson Arango  
+Fabian Quintero  
